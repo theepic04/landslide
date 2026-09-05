@@ -1,0 +1,8 @@
+{
+  "numeric": [
+    "slope_deg",
+    "elevation_m",
+    "historical_incidents_5yr"
+  ],
+  "categorical": []
+}
